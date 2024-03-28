@@ -1,0 +1,2 @@
+what is debian ??? 
+데비안 은 리눅스의 배포판이다. OS
